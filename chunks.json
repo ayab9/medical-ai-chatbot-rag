@@ -1,0 +1,1315 @@
+[
+  {
+    "chunk_id": 0,
+    "content": "## DOCUMENT TITLE: Breast Cancer – Overview and Global Facts\nSOURCE: World Health Organization (WHO) \nPUBLICATION DATE: 14 August 2025 \nDOMAIN: Oncology – Breast Cancer \nLANGUAGE: English \nCLINICAL CONTEXT: Public health, prevention, early detection, and general management of breast \ncancer",
+    "metadata": {
+      "document_id": "01_Breast_Cancer_Overview_and_Key_Facts",
+      "source": "01_Breast_Cancer_Overview_and_Key_Facts.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "DOCUMENT TITLE: Breast Cancer – Overview and Global Facts",
+      "chunk_id": 0
+    }
+  },
+  {
+    "chunk_id": 1,
+    "content": "## KEY FACTS\n- Breast cancer caused an estimated 670,000 deaths globally in 2022. \n- Approximately 2.3 million women were diagnosed with breast cancer \nworldwide in 2022. \n- Breast cancer is the most common cancer among women in 157 out of 185 \ncountries. \n- Breast cancer occurs in every country in the world. \n- Around 0.5–1% of breast cancers occur in men. \n- Effective early diagnosis, treatment, rehabilitation, and palliative care \nare essential to reduce mortality and improve quality of life.",
+    "metadata": {
+      "document_id": "01_Breast_Cancer_Overview_and_Key_Facts",
+      "source": "01_Breast_Cancer_Overview_and_Key_Facts.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "KEY FACTS",
+      "chunk_id": 1
+    }
+  },
+  {
+    "chunk_id": 2,
+    "content": "## DEFINITION AND BIOLOGY OF BREAST CANCER\nBreast cancer is a disease in which abnormal breast cells grow \nuncontrollably and form tumors. \nBreast cancer cells typically originate in the milk ducts and/or the milk-\nproducing lobules of the breast. \n \nThe earliest form of breast cancer (in situ) is not life-threatening and \ncan often be detected early. \nInvasive breast cancer occurs when cancer cells spread into surrounding \nbreast tissue. \nAdvanced invasive cancers can metastasize to lymph nodes and distant \norgans, becoming life-threatening.",
+    "metadata": {
+      "document_id": "01_Breast_Cancer_Overview_and_Key_Facts",
+      "source": "01_Breast_Cancer_Overview_and_Key_Facts.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "DEFINITION AND BIOLOGY OF BREAST CANCER",
+      "chunk_id": 2
+    }
+  },
+  {
+    "chunk_id": 3,
+    "content": "## GLOBAL BURDEN AND EPIDEMIOLOGY\nIn 2022, breast cancer affected women of all ages after puberty, with \nincreasing incidence in later life. \n \nSignificant global inequities exist: \n- In very high Human Development Index (HDI) countries: \n  - 1 in 12 women will be diagnosed during their lifetime \n  - 1 in 71 women will die from breast cancer \n- In low HDI countries: \n  - 1 in 27 women will be diagnosed \n  - 1 in 48 women will die from the disease",
+    "metadata": {
+      "document_id": "01_Breast_Cancer_Overview_and_Key_Facts",
+      "source": "01_Breast_Cancer_Overview_and_Key_Facts.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "GLOBAL BURDEN AND EPIDEMIOLOGY",
+      "chunk_id": 3
+    }
+  },
+  {
+    "chunk_id": 4,
+    "content": "## RISK FACTORS FOR BREAST CANCER\nThe strongest risk factor for breast cancer is female gender. \nApproximately 99% of cases occur in women. \n \nOther risk factors include: \n- Increasing age \n- Obesity \n- Harmful alcohol use \n- Family history of breast cancer\n- Exposure to ionizing radiation \n- Reproductive factors (early menarche, late first pregnancy) \n- Tobacco use \n- Postmenopausal hormone therapy \n \nInherited genetic mutations significantly increase risk, particularly: \n- BRCA1 \n- BRCA2 \n- PALB2",
+    "metadata": {
+      "document_id": "01_Breast_Cancer_Overview_and_Key_Facts",
+      "source": "01_Breast_Cancer_Overview_and_Key_Facts.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "RISK FACTORS FOR BREAST CANCER",
+      "chunk_id": 4
+    }
+  },
+  {
+    "chunk_id": 5,
+    "content": "## EARLY DETECTION OF BREAST CANCER\nEarly detection reduces breast cancer mortality. \n \nThere are two main components: \n1. Early diagnosis: \n   - Awareness of signs and symptoms \n   - Timely clinical evaluation and referral \n \n2. Screening: \n   - Mammography in asymptomatic women, typically aged 50 –69 years \n   - Identification of pre-clinical lesions before symptoms appear",
+    "metadata": {
+      "document_id": "01_Breast_Cancer_Overview_and_Key_Facts",
+      "source": "01_Breast_Cancer_Overview_and_Key_Facts.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "EARLY DETECTION OF BREAST CANCER",
+      "chunk_id": 5
+    }
+  },
+  {
+    "chunk_id": 6,
+    "content": "## SIGNS AND SYMPTOMS\nEarly breast cancer often causes no symptoms. \n \nPossible symptoms include: \n- Breast lump or thickening, usually painless \n- Changes in breast size, shape, or appearance \n- Skin dimpling, redness, or pitting \n- Changes in the nipple or areola \n- Abnormal or bloody nipple discharge \n \nAdvanced disease may cause symptoms related to metastasis, such as bone \npain or headaches.",
+    "metadata": {
+      "document_id": "01_Breast_Cancer_Overview_and_Key_Facts",
+      "source": "01_Breast_Cancer_Overview_and_Key_Facts.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "SIGNS AND SYMPTOMS",
+      "chunk_id": 6
+    }
+  },
+  {
+    "chunk_id": 7,
+    "content": "## MANAGEMENT OVERVIEW\nBreast cancer treatment depends on cancer subtype and stage. \n \nTreatment may include: \n- Surgery (lumpectomy or mastectomy) \n- Radiation therapy \n- Systemic therapies such as: \n  - Hormonal therapy \n  - Chemotherapy \n  - Targeted biological therapy \n \nEarly and complete treatment significantly improves outcomes.",
+    "metadata": {
+      "document_id": "01_Breast_Cancer_Overview_and_Key_Facts",
+      "source": "01_Breast_Cancer_Overview_and_Key_Facts.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "MANAGEMENT OVERVIEW",
+      "chunk_id": 7
+    }
+  },
+  {
+    "chunk_id": 8,
+    "content": "## WHO RESPONSE AND GLOBAL STRATEGY\nThe World Health Organization launched the Global Breast Cancer Initiative \n(GBCI) in 2021. \n \nThe initiative aims to reduce global breast cancer mortality by 2.5% per \nyear by 2040. \n \nThe three pillars are: \n- Health promotion for early detection \n- Timely diagnosis\n- Comprehensive breast cancer management \n \nDOCUMENT SCOPE: \nThis document provides high-level, evidence-based information on breast cancer epidemiology, risk \nfactors, early detection, and general management. It does not replace clinical guidelines or \nindividualized medical decision-making.",
+    "metadata": {
+      "document_id": "01_Breast_Cancer_Overview_and_Key_Facts",
+      "source": "01_Breast_Cancer_Overview_and_Key_Facts.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "WHO RESPONSE AND GLOBAL STRATEGY",
+      "chunk_id": 8
+    }
+  },
+  {
+    "chunk_id": 9,
+    "content": "## DOCUMENT TITLE: Breast Cancer – Causes and Risk Factors\nSOURCE: National Cancer Institute (NCI) \nDOMAIN: Oncology – Breast Cancer \nLANGUAGE: English \nDOCUMENT TYPE: Etiology and Risk Assessment \nCLINICAL CONTEXT: Risk stratification, prevention, and screening decision \nsupport",
+    "metadata": {
+      "document_id": "02_Breast_Cancer_Causes_and_Risk_Factors",
+      "source": "02_Breast_Cancer_Causes_and_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DOCUMENT TITLE: Breast Cancer – Causes and Risk Factors",
+      "chunk_id": 9
+    }
+  },
+  {
+    "chunk_id": 10,
+    "content": "## DEFINITION OF RISK FACTORS\nBreast cancer is caused by changes in how breast cells grow and divide. \nA risk factor is any factor that increases the likelihood of developing \nbreast cancer. \n \nRisk factors do not directly cause cancer but increase the probability of \nDNA damage. \nHaving one or more risk factors does not mean that breast cancer will \noccur. \nIncreasing age is the most important risk factor after female biological \nsex.",
+    "metadata": {
+      "document_id": "02_Breast_Cancer_Causes_and_Risk_Factors",
+      "source": "02_Breast_Cancer_Causes_and_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DEFINITION OF RISK FACTORS",
+      "chunk_id": 10
+    }
+  },
+  {
+    "chunk_id": 11,
+    "content": "## PERSONAL MEDICAL HISTORY AND BREAST CONDITIONS\nPersonal health factors associated with increased breast cancer risk \ninclude: \n- Previous breast cancer \n- Previous ductal carcinoma in situ (DCIS) \n- High-dose radiation exposure, especially at a young age \n- Certain precancerous breast changes \n- Dense breast tissue \n- Excess body weight, particularly after menopause \n- Use of combined estrogen–progestin hormone replacement therapy \n- Exposure to diethylstilbestrol (DES)",
+    "metadata": {
+      "document_id": "02_Breast_Cancer_Causes_and_Risk_Factors",
+      "source": "02_Breast_Cancer_Causes_and_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "PERSONAL MEDICAL HISTORY AND BREAST CONDITIONS",
+      "chunk_id": 11
+    }
+  },
+  {
+    "chunk_id": 12,
+    "content": "## REPRODUCTIVE AND HORMONAL FACTORS\nReproductive factors that increase lifetime exposure to estrogen include: \n- Early onset of menstruation (early menarche) \n- Late menopause \n- Older age at first childbirth \n- Never having carried a pregnancy to term \n- Never breastfeeding",
+    "metadata": {
+      "document_id": "02_Breast_Cancer_Causes_and_Risk_Factors",
+      "source": "02_Breast_Cancer_Causes_and_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "REPRODUCTIVE AND HORMONAL FACTORS",
+      "chunk_id": 12
+    }
+  },
+  {
+    "chunk_id": 13,
+    "content": "## GENETIC AND FAMILY HISTORY FACTORS\nGenetic mutations associated with a high risk of breast cancer include: \n- BRCA1 \n- BRCA2 \n- PALB2 \n- CHEK2 \n- TP53 \n- CDH1 \n- PTEN \n- STK11 \n- ATM \n \nFamily history of breast cancer, especially in first-degree relatives, \nincreases risk.",
+    "metadata": {
+      "document_id": "02_Breast_Cancer_Causes_and_Risk_Factors",
+      "source": "02_Breast_Cancer_Causes_and_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "GENETIC AND FAMILY HISTORY FACTORS",
+      "chunk_id": 13
+    }
+  },
+  {
+    "chunk_id": 14,
+    "content": "## BEHAVIORAL AND LIFESTYLE FACTORS\nBehavioral factors associated with increased breast cancer risk include: \n- Alcohol consumption (risk increases with amount) \n- Physical inactivity, particularly after menopause",
+    "metadata": {
+      "document_id": "02_Breast_Cancer_Causes_and_Risk_Factors",
+      "source": "02_Breast_Cancer_Causes_and_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "BEHAVIORAL AND LIFESTYLE FACTORS",
+      "chunk_id": 14
+    }
+  },
+  {
+    "chunk_id": 15,
+    "content": "## DEMOGRAPHIC FACTORS\nBreast cancer incidence and mortality vary by race. \nIn the United States: \n- White women have the highest incidence \n- Black women have the highest mortality rate",
+    "metadata": {
+      "document_id": "02_Breast_Cancer_Causes_and_Risk_Factors",
+      "source": "02_Breast_Cancer_Causes_and_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DEMOGRAPHIC FACTORS",
+      "chunk_id": 15
+    }
+  },
+  {
+    "chunk_id": 16,
+    "content": "## POTENTIAL RISK FACTORS UNDER INVESTIGATION\nPotential risk factors requiring further study include: \n- Hormonal oral contraceptive use \n- Environmental chemical exposures \n \nCurrent evidence is inconclusive.",
+    "metadata": {
+      "document_id": "02_Breast_Cancer_Causes_and_Risk_Factors",
+      "source": "02_Breast_Cancer_Causes_and_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "POTENTIAL RISK FACTORS UNDER INVESTIGATION",
+      "chunk_id": 16
+    }
+  },
+  {
+    "chunk_id": 17,
+    "content": "## UNDERSTANDING INDIVIDUAL RISK\nAll individuals with breast tissue have some risk of breast cancer. \nOn average, women have a 1 in 8 lifetime risk. \n \nSome factors confer very high risk (≥60%), including: \n- Harmful mutations in BRCA1, BRCA2, PALB2, or PTEN \n- Strong family history with multiple affected relatives \n- Chest radiation exposure before age 30 \n \nRisk calculators can estimate risk but remain approximate.",
+    "metadata": {
+      "document_id": "02_Breast_Cancer_Causes_and_Risk_Factors",
+      "source": "02_Breast_Cancer_Causes_and_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "UNDERSTANDING INDIVIDUAL RISK",
+      "chunk_id": 17
+    }
+  },
+  {
+    "chunk_id": 18,
+    "content": "## DOCUMENT SCOPE\nThis document provides evidence-based information on breast cancer risk \nfactors. \nIt does not provide individualized medical advice or replace clinical \ndecision-making.",
+    "metadata": {
+      "document_id": "02_Breast_Cancer_Causes_and_Risk_Factors",
+      "source": "02_Breast_Cancer_Causes_and_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DOCUMENT SCOPE",
+      "chunk_id": 18
+    }
+  },
+  {
+    "chunk_id": 19,
+    "content": "## .\nDOCUMENT TITLE: Breast Cancer – Chemotherapy Treatment \nSOURCE: Breastcancer.org \nREVIEWED BY: Medical Oncologists \nLAST UPDATED: 21 November 2025 \nDOMAIN: Oncology – Breast Cancer Treatment \nLANGUAGE: English \nDOCUMENT TYPE: Systemic Therapy Overview \nCLINICAL CONTEXT: Treatment decision support (non-prescriptive)",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": ".",
+      "chunk_id": 19
+    }
+  },
+  {
+    "chunk_id": 20,
+    "content": "## DEFINITION OF CHEMOTHERAPY\nChemotherapy is a systemic breast cancer treatment that uses medicines to \nstop or slow the growth of cancer cells. \n \nChemotherapy travels through the bloodstream and affects cancer cells \nthroughout the body. \nIt primarily targets rapidly dividing cells, which include cancer cells.",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "DEFINITION OF CHEMOTHERAPY",
+      "chunk_id": 20
+    }
+  },
+  {
+    "chunk_id": 21,
+    "content": "## HOW CHEMOTHERAPY WORKS\nBreast cancer cells grow and divide rapidly and in an uncontrolled manner. \nChemotherapy works by: \n- Destroying cancer cells \n- Preventing cancer cells from dividing \n \nBecause chemotherapy circulates in the bloodstream, it treats both the \noriginal tumor and cancer cells that may have spread.",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "HOW CHEMOTHERAPY WORKS",
+      "chunk_id": 21
+    }
+  },
+  {
+    "chunk_id": 22,
+    "content": "## METHODS OF ADMINISTRATION\nChemotherapy medicines may be administered: \n- Intravenously through an IV, port, or catheter \n- Orally as pills or capsules \n \nMost chemotherapy regimens use a combination of two or more medicines.",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "METHODS OF ADMINISTRATION",
+      "chunk_id": 22
+    }
+  },
+  {
+    "chunk_id": 23,
+    "content": "## INDICATIONS FOR CHEMOTHERAPY\nChemotherapy may be used: \n- After surgery (adjuvant chemotherapy) \n- Before surgery (neoadjuvant chemotherapy) \n- For advanced-stage or metastatic breast cancer",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "INDICATIONS FOR CHEMOTHERAPY",
+      "chunk_id": 23
+    }
+  },
+  {
+    "chunk_id": 24,
+    "content": "## ADJUVANT CHEMOTHERAPY\nAdjuvant chemotherapy is given after surgery to destroy remaining cancer \ncells. \n \nIt reduces the risk of breast cancer recurrence. \n \nChemotherapy after surgery may be recommended when: \n- Cancer has spread to nearby lymph nodes \n- Cancer is hormone receptor-negative \n- Cancer is HER2-positive \n- The patient is pre-menopausal",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "ADJUVANT CHEMOTHERAPY",
+      "chunk_id": 24
+    }
+  },
+  {
+    "chunk_id": 25,
+    "content": "## NEOADJUVANT CHEMOTHERAPY\nNeoadjuvant chemotherapy is given before surgery to: \n- Shrink large tumors \n- Increase the likelihood of breast-conserving surgery \n- Reduce lymph node involvement \n \nIt also allows clinicians to assess tumor response to treatment.",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "NEOADJUVANT CHEMOTHERAPY",
+      "chunk_id": 25
+    }
+  },
+  {
+    "chunk_id": 26,
+    "content": "## CHEMOTHERAPY BY STAGE\nEarly-stage breast cancer includes: \n- DCIS (Stage 0) \n- Stage I \n- Stage II \n- Stage IIIA \n \nAdvanced-stage breast cancer includes: \n- Stage IIIB \n- Stage IIIC \n- Stage IV \n \nChemotherapy is commonly used in advanced and metastatic breast cancer, \noften combined with other systemic therapies.",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "CHEMOTHERAPY BY STAGE",
+      "chunk_id": 26
+    }
+  },
+  {
+    "chunk_id": 27,
+    "content": "## CHEMOTHERAPY REGIMENS\nChemotherapy regimens consist of one or more medicines given in cycles. \n \nEarly-stage breast cancer often uses combination regimens. \nAdvanced-stage breast cancer usually uses single-agent chemotherapy.",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "CHEMOTHERAPY REGIMENS",
+      "chunk_id": 27
+    }
+  },
+  {
+    "chunk_id": 28,
+    "content": "## TREATMENT CYCLES AND DURATION\nChemotherapy is given in cycles: \n- Treatment period \n- Followed by recovery period \n \nMost chemotherapy regimens last: \n- 3 to 6 months \n \nDose-dense chemotherapy uses shorter intervals between cycles.",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "TREATMENT CYCLES AND DURATION",
+      "chunk_id": 28
+    }
+  },
+  {
+    "chunk_id": 29,
+    "content": "## CHEMOTHERAPY SIDE EFFECTS\nChemotherapy can damage healthy rapidly dividing cells. \n \nCommon side effects include: \n- Hair loss \n- Nail changes \n- Mouth sores \n- Nausea and vomiting \n- Digestive symptoms",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "CHEMOTHERAPY SIDE EFFECTS",
+      "chunk_id": 29
+    }
+  },
+  {
+    "chunk_id": 30,
+    "content": "## TREATMENT ADHERENCE AND SUPPORT\nChemotherapy is most effective when taken as prescribed. \n \nTreatment schedules may be adjusted to manage side effects. \nSupport services such as nurse navigators and social workers can assist \npatients.",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "TREATMENT ADHERENCE AND SUPPORT",
+      "chunk_id": 30
+    }
+  },
+  {
+    "chunk_id": 31,
+    "content": "## FINANCIAL CONSIDERATIONS\nThe cost of chemotherapy depends on: \n- Medicines used \n- Treatment duration \n- Treatment location \n \nMost insurance plans cover chemotherapy. \nFinancial assistance programs may be available.",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "FINANCIAL CONSIDERATIONS",
+      "chunk_id": 31
+    }
+  },
+  {
+    "chunk_id": 32,
+    "content": "## DOCUMENT SCOPE\nThis document provides educational information on chemotherapy for breast \ncancer. \nIt does not replace individualized medical advice.",
+    "metadata": {
+      "document_id": "03_Breast_Cancer_Chemotherapy_Treatment",
+      "source": "03_Breast_Cancer_Chemotherapy_Treatment.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 3,
+      "section": "DOCUMENT SCOPE",
+      "chunk_id": 32
+    }
+  },
+  {
+    "chunk_id": 33,
+    "content": "## DOCUMENT TITLE: Breast Cancer – Diagnosis and Staging\nSOURCE: National Cancer Institute (NCI) \nDOMAIN: Oncology – Breast Cancer Diagnosis \nLANGUAGE: English \nDOCUMENT TYPE: Diagnostic and Staging Overview \nCLINICAL CONTEXT: Diagnostic decision support (non-therapeutic)",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DOCUMENT TITLE: Breast Cancer – Diagnosis and Staging",
+      "chunk_id": 33
+    }
+  },
+  {
+    "chunk_id": 34,
+    "content": "## OVERVIEW OF BREAST CANCER DIAGNOSIS\nBreast cancer diagnosis begins when symptoms or screening test results \nsuggest the presence of disease. \n \nDiagnosis involves: \n- Medical history assessment \n- Physical examination \n- Diagnostic tests",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "OVERVIEW OF BREAST CANCER DIAGNOSIS",
+      "chunk_id": 34
+    }
+  },
+  {
+    "chunk_id": 35,
+    "content": "## INITIAL CLINICAL EVALUATION\nDoctors may: \n- Review personal and family medical history \n- Perform a clinical breast examination to detect lumps or abnormalities",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "INITIAL CLINICAL EVALUATION",
+      "chunk_id": 35
+    }
+  },
+  {
+    "chunk_id": 36,
+    "content": "## IMAGING TESTS FOR BREAST CANCER\nImaging tests used in diagnosis include: \n \n- Diagnostic mammography \n- Breast ultrasound \n- Breast MRI \n \nThese tests help identify abnormal areas that require further evaluation.",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "IMAGING TESTS FOR BREAST CANCER",
+      "chunk_id": 36
+    }
+  },
+  {
+    "chunk_id": 37,
+    "content": "## BIOPSY FOR BREAST CANCER\nA biopsy is the only definitive method to diagnose breast cancer. \n \nDuring a biopsy, tissue or cells are removed and examined by a pathologist.",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "BIOPSY FOR BREAST CANCER",
+      "chunk_id": 37
+    }
+  },
+  {
+    "chunk_id": 38,
+    "content": "## TYPES OF BREAST BIOPSY\nTypes of biopsy include: \n- Fine-needle aspiration biopsy \n- Core-needle biopsy \n- Image-guided biopsy \n- Surgical biopsy \n \nSurgical biopsies may be: \n- Incisional \n- Excisional",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "TYPES OF BREAST BIOPSY",
+      "chunk_id": 38
+    }
+  },
+  {
+    "chunk_id": 39,
+    "content": "## PATHOLOGY REPORT\nThe pathology report provides information on: \n- Tumor origin (ducts or lobules) \n- Tumor grade \n- Whether the cancer is invasive",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "PATHOLOGY REPORT",
+      "chunk_id": 39
+    }
+  },
+  {
+    "chunk_id": 40,
+    "content": "## BIOMARKER TESTING\nBreast cancer cells are tested for biomarkers, including: \n- Estrogen receptor (ER) \n- Progesterone receptor (PR) \n- HER2 \n \nBiomarker results are used to determine stage and guide treatment planning.",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "BIOMARKER TESTING",
+      "chunk_id": 40
+    }
+  },
+  {
+    "chunk_id": 41,
+    "content": "## STAGING OF BREAST CANCER\nStaging determines how far breast cancer has spread. \n \nStaging considers: \n- Tumor size \n- Lymph node involvement \n- Distant metastasis \n- Biomarker results",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "STAGING OF BREAST CANCER",
+      "chunk_id": 41
+    }
+  },
+  {
+    "chunk_id": 42,
+    "content": "## SENTINEL LYMPH NODE BIOPSY\nA sentinel lymph node biopsy identifies whether cancer has spread to nearby \nlymph nodes. \n \nThe sentinel node is the first lymph node likely to be affected by cancer \nspread.",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "SENTINEL LYMPH NODE BIOPSY",
+      "chunk_id": 42
+    }
+  },
+  {
+    "chunk_id": 43,
+    "content": "## IMAGING TESTS FOR STAGING\nImaging tests for staging may include: \n- CT scan \n- Bone scan \n- PET or PET-CT scan",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "IMAGING TESTS FOR STAGING",
+      "chunk_id": 43
+    }
+  },
+  {
+    "chunk_id": 44,
+    "content": "## TUMOR GRADE\nTumor grade describes how abnormal cancer cells appear under a microscope. \n \nGrades range from: \n- Grade 1 (well differentiated) \n- Grade 2 (moderately differentiated) \n- Grade 3 (poorly differentiated)",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "TUMOR GRADE",
+      "chunk_id": 44
+    }
+  },
+  {
+    "chunk_id": 45,
+    "content": "## MULTIGENE TESTING\nMultigene tests analyze gene activity in cancer cells to predict recurrence \nrisk. \n \nExamples include: \n- Oncotype DX \n- MammaPrint \n- Breast Cancer Index",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "MULTIGENE TESTING",
+      "chunk_id": 45
+    }
+  },
+  {
+    "chunk_id": 46,
+    "content": "## GENETIC COUNSELING AND TESTING\nGenetic testing identifies inherited mutations such as: \n- BRCA1 \n- BRCA2 \n \nGenetic counseling helps patients understand testing implications.",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "GENETIC COUNSELING AND TESTING",
+      "chunk_id": 46
+    }
+  },
+  {
+    "chunk_id": 47,
+    "content": "## PATIENT SUPPORT CONSIDERATIONS\nWaiting for test results can be stressful. \nSecond opinions may help confirm diagnosis and treatment planning.",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "PATIENT SUPPORT CONSIDERATIONS",
+      "chunk_id": 47
+    }
+  },
+  {
+    "chunk_id": 48,
+    "content": "## DOCUMENT SCOPE\nThis document provides educational information on breast cancer diagnosis \nand staging. \nIt does not replace medical advice.",
+    "metadata": {
+      "document_id": "04_Breast_Cancer_Diagnosis_and_Staging",
+      "source": "04_Breast_Cancer_Diagnosis_and_Staging.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DOCUMENT SCOPE",
+      "chunk_id": 48
+    }
+  },
+  {
+    "chunk_id": 49,
+    "content": "## DOCUMENT TITLE: Breast Cancer – Staging Overview\nSOURCE: National Cancer Institute (NCI) \nDOMAIN: Oncology – Breast Cancer \nLANGUAGE: English \nDOCUMENT TYPE: Disease Staging Overview \nCLINICAL CONTEXT: Prognostic classification (non-therapeutic)",
+    "metadata": {
+      "document_id": "05_Breast_Cancer_Staging_Overview",
+      "source": "05_Breast_Cancer_Staging_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DOCUMENT TITLE: Breast Cancer – Staging Overview",
+      "chunk_id": 49
+    }
+  },
+  {
+    "chunk_id": 50,
+    "content": "## PURPOSE OF BREAST CANCER STAGING\nBreast cancer staging describes how far the cancer has spread in the body. \n \nStage information is used to: \n- Plan treatment \n- Estimate prognosis \n- Compare outcomes across patients",
+    "metadata": {
+      "document_id": "05_Breast_Cancer_Staging_Overview",
+      "source": "05_Breast_Cancer_Staging_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "PURPOSE OF BREAST CANCER STAGING",
+      "chunk_id": 50
+    }
+  },
+  {
+    "chunk_id": 51,
+    "content": "## HOW BREAST CANCER STAGE IS DETERMINED\nBreast cancer stage is determined using: \n- Tumor size and extent (T) \n- Lymph node involvement (N) \n- Presence of distant metastasis (M) \n- Tumor grade \n- Biomarker status \n \nStaging may be clinical (before surgery) or pathological (after surgery).",
+    "metadata": {
+      "document_id": "05_Breast_Cancer_Staging_Overview",
+      "source": "05_Breast_Cancer_Staging_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "HOW BREAST CANCER STAGE IS DETERMINED",
+      "chunk_id": 51
+    }
+  },
+  {
+    "chunk_id": 52,
+    "content": "## STAGE 0 BREAST CANCER\nStage 0 breast cancer is noninvasive. \n \nAbnormal cells are present but have not spread beyond their original \nlocation. \nAn example is ductal carcinoma in situ (DCIS).",
+    "metadata": {
+      "document_id": "05_Breast_Cancer_Staging_Overview",
+      "source": "05_Breast_Cancer_Staging_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "STAGE 0 BREAST CANCER",
+      "chunk_id": 52
+    }
+  },
+  {
+    "chunk_id": 53,
+    "content": "## STAGE I BREAST CANCER\nStage I breast cancer is early-stage invasive cancer. \n \nThe tumor is small and may be limited to the breast or nearby lymph nodes.",
+    "metadata": {
+      "document_id": "05_Breast_Cancer_Staging_Overview",
+      "source": "05_Breast_Cancer_Staging_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "STAGE I BREAST CANCER",
+      "chunk_id": 53
+    }
+  },
+  {
+    "chunk_id": 54,
+    "content": "## STAGE II BREAST CANCER\nStage II breast cancer involves a larger tumor and/or spread to nearby \nlymph nodes. \n \nThe cancer has not spread to distant organs.",
+    "metadata": {
+      "document_id": "05_Breast_Cancer_Staging_Overview",
+      "source": "05_Breast_Cancer_Staging_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "STAGE II BREAST CANCER",
+      "chunk_id": 54
+    }
+  },
+  {
+    "chunk_id": 55,
+    "content": "## STAGE III BREAST CANCER\nStage III breast cancer is locally advanced. \n \nCancer has spread to multiple lymph nodes or nearby structures such as the \nchest wall or skin.",
+    "metadata": {
+      "document_id": "05_Breast_Cancer_Staging_Overview",
+      "source": "05_Breast_Cancer_Staging_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "STAGE III BREAST CANCER",
+      "chunk_id": 55
+    }
+  },
+  {
+    "chunk_id": 56,
+    "content": "## STAGE IV BREAST CANCER\nStage IV breast cancer is metastatic. \n \nCancer has spread to distant organs such as: \n- Bone \n- Liver \n- Lung \n- Brain",
+    "metadata": {
+      "document_id": "05_Breast_Cancer_Staging_Overview",
+      "source": "05_Breast_Cancer_Staging_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "STAGE IV BREAST CANCER",
+      "chunk_id": 56
+    }
+  },
+  {
+    "chunk_id": 57,
+    "content": "## RECURRENT BREAST CANCER\nRecurrent breast cancer is cancer that returns after treatment.\nRecurrence may be: \n- Local \n- Regional \n- Distant \n \nRecurrent cancer is reassessed using diagnostic and imaging tests.",
+    "metadata": {
+      "document_id": "05_Breast_Cancer_Staging_Overview",
+      "source": "05_Breast_Cancer_Staging_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "RECURRENT BREAST CANCER",
+      "chunk_id": 57
+    }
+  },
+  {
+    "chunk_id": 58,
+    "content": "## DOCUMENT SCOPE\nThis document provides an overview of breast cancer stages. \nIt does not include treatment recommendations.",
+    "metadata": {
+      "document_id": "05_Breast_Cancer_Staging_Overview",
+      "source": "05_Breast_Cancer_Staging_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DOCUMENT SCOPE",
+      "chunk_id": 58
+    }
+  },
+  {
+    "chunk_id": 59,
+    "content": "## DOCUMENT TITLE: Breast Cancer Treatment – Side Effects Overview\nSOURCE: Medical oncology reference \nDOMAIN: Oncology – Breast Cancer \nLANGUAGE: English \nDOCUMENT TYPE: Treatment Adverse Effects Overview \nCLINICAL CONTEXT: Patient education (non-prescriptive) \nLAST UPDATED: October 3, 2025",
+    "metadata": {
+      "document_id": "06_Breast_Cancer_Treatment_Side_Effects_Overview",
+      "source": "06_Breast_Cancer_Treatment_Side_Effects_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DOCUMENT TITLE: Breast Cancer Treatment – Side Effects Overview",
+      "chunk_id": 59
+    }
+  },
+  {
+    "chunk_id": 60,
+    "content": "## GENERAL PRINCIPLES OF TREATMENT SIDE EFFECTS\nSide effects of breast cancer treatment vary between individuals. \n \nSome side effects occur during treatment, while others may appear months or \nyears later. \n \nPatients should report new or worsening symptoms to their healthcare team \nas early as possible.",
+    "metadata": {
+      "document_id": "06_Breast_Cancer_Treatment_Side_Effects_Overview",
+      "source": "06_Breast_Cancer_Treatment_Side_Effects_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "GENERAL PRINCIPLES OF TREATMENT SIDE EFFECTS",
+      "chunk_id": 60
+    }
+  },
+  {
+    "chunk_id": 61,
+    "content": "## MONITORING AND REPORTING SIDE EFFECTS\nTracking symptoms helps healthcare providers manage side effects \neffectively. \n \nEarly reporting may allow treatment adjustments and reduce complications.",
+    "metadata": {
+      "document_id": "06_Breast_Cancer_Treatment_Side_Effects_Overview",
+      "source": "06_Breast_Cancer_Treatment_Side_Effects_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "MONITORING AND REPORTING SIDE EFFECTS",
+      "chunk_id": 61
+    }
+  },
+  {
+    "chunk_id": 62,
+    "content": "## CHEMOTHERAPY SIDE EFFECTS\nChemotherapy targets rapidly dividing cells, including cancer cells and \nsome healthy cells. \n \nCommon side effects include: \n- Fatigue \n- Hair loss \n- Nausea and vomiting \n- Low white blood cell counts \n- Early menopause",
+    "metadata": {
+      "document_id": "06_Breast_Cancer_Treatment_Side_Effects_Overview",
+      "source": "06_Breast_Cancer_Treatment_Side_Effects_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "CHEMOTHERAPY SIDE EFFECTS",
+      "chunk_id": 62
+    }
+  },
+  {
+    "chunk_id": 63,
+    "content": "## HORMONAL THERAPY SIDE EFFECTS\nHormonal therapy reduces the effect of estrogen on breast cancer cells. \n \nCommon side effects include: \n- Hot flashes \n- Joint and bone pain \n- Fatigue \n- Weakness",
+    "metadata": {
+      "document_id": "06_Breast_Cancer_Treatment_Side_Effects_Overview",
+      "source": "06_Breast_Cancer_Treatment_Side_Effects_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "HORMONAL THERAPY SIDE EFFECTS",
+      "chunk_id": 63
+    }
+  },
+  {
+    "chunk_id": 64,
+    "content": "## RADIATION THERAPY SIDE EFFECTS\nRadiation therapy damages cancer cell DNA but may also affect nearby \nhealthy tissue. \n \nCommon side effects include: \n- Skin redness or peeling \n- Fatigue \n- Swelling",
+    "metadata": {
+      "document_id": "06_Breast_Cancer_Treatment_Side_Effects_Overview",
+      "source": "06_Breast_Cancer_Treatment_Side_Effects_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "RADIATION THERAPY SIDE EFFECTS",
+      "chunk_id": 64
+    }
+  },
+  {
+    "chunk_id": 65,
+    "content": "## IMMUNOTHERAPY AND TARGETED THERAPY SIDE EFFECTS\nImmunotherapy stimulates the immune system to attack cancer cells. \n \nTargeted therapy interferes with specific cancer cell characteristics. \n \nCommon side effects include: \n- Inflammation \n- Skin changes \n- Fatigue\n- Nausea \n- Diarrhea",
+    "metadata": {
+      "document_id": "06_Breast_Cancer_Treatment_Side_Effects_Overview",
+      "source": "06_Breast_Cancer_Treatment_Side_Effects_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "IMMUNOTHERAPY AND TARGETED THERAPY SIDE EFFECTS",
+      "chunk_id": 65
+    }
+  },
+  {
+    "chunk_id": 66,
+    "content": "## SURGICAL SIDE EFFECTS\nBreast cancer surgery may involve lumpectomy, mastectomy, or \nreconstruction. \n \nPossible side effects include: \n- Pain \n- Infection \n- Lymphedema \n- Seroma formation \n- Phantom breast pain",
+    "metadata": {
+      "document_id": "06_Breast_Cancer_Treatment_Side_Effects_Overview",
+      "source": "06_Breast_Cancer_Treatment_Side_Effects_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "SURGICAL SIDE EFFECTS",
+      "chunk_id": 66
+    }
+  },
+  {
+    "chunk_id": 67,
+    "content": "## WHEN TO CONTACT A HEALTHCARE PROVIDER\nPatients should contact their healthcare team if they experience: \n- Severe or worsening symptoms \n- Signs of infection \n- Unexpected physical or emotional changes",
+    "metadata": {
+      "document_id": "06_Breast_Cancer_Treatment_Side_Effects_Overview",
+      "source": "06_Breast_Cancer_Treatment_Side_Effects_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "WHEN TO CONTACT A HEALTHCARE PROVIDER",
+      "chunk_id": 67
+    }
+  },
+  {
+    "chunk_id": 68,
+    "content": "## DOCUMENT SCOPE\nThis document provides general information on treatment-related side \neffects. \nIt does not replace professional medical advice.",
+    "metadata": {
+      "document_id": "06_Breast_Cancer_Treatment_Side_Effects_Overview",
+      "source": "06_Breast_Cancer_Treatment_Side_Effects_Overview.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DOCUMENT SCOPE",
+      "chunk_id": 68
+    }
+  },
+  {
+    "chunk_id": 69,
+    "content": "## DOCUMENT TITLE: Types and Molecular Subtypes of Breast Cancer\nSOURCE: Oncology reference \nDOMAIN: Oncology – Breast Cancer \nLANGUAGE: English \nDOCUMENT TYPE: Disease Classification Overview \nCLINICAL CONTEXT: Educational (non-prescriptive) \nLAST UPDATED: 2025",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "DOCUMENT TITLE: Types and Molecular Subtypes of Breast Cancer",
+      "chunk_id": 69
+    }
+  },
+  {
+    "chunk_id": 70,
+    "content": "## OVERVIEW OF BREAST CANCER TYPES\nBreast cancer includes multiple disease types that differ based on: \n- Cell of origin \n- Invasiveness \n- Molecular and biomarker characteristics \n- Pattern of spread",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "OVERVIEW OF BREAST CANCER TYPES",
+      "chunk_id": 70
+    }
+  },
+  {
+    "chunk_id": 71,
+    "content": "## INVASIVE BREAST CANCERS\n",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "INVASIVE BREAST CANCERS",
+      "chunk_id": 71
+    }
+  },
+  {
+    "chunk_id": 72,
+    "content": "## # Invasive Ductal Carcinoma (IDC)\nInvasive ductal carcinoma begins in the milk ducts and spreads into \nsurrounding breast tissue. \nIt is the most common type of breast cancer.",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "# Invasive Ductal Carcinoma (IDC)",
+      "chunk_id": 72
+    }
+  },
+  {
+    "chunk_id": 73,
+    "content": "## # Invasive Lobular Carcinoma (ILC)\nInvasive lobular carcinoma begins in the milk-producing lobules. \nIt tends to grow more slowly and is more often bilateral than other types.",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "# Invasive Lobular Carcinoma (ILC)",
+      "chunk_id": 73
+    }
+  },
+  {
+    "chunk_id": 74,
+    "content": "## NON-INVASIVE AND PRECURSOR CONDITIONS\n",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "NON-INVASIVE AND PRECURSOR CONDITIONS",
+      "chunk_id": 74
+    }
+  },
+  {
+    "chunk_id": 75,
+    "content": "## # Ductal Carcinoma In Situ (DCIS)\nDCIS is a non-invasive breast cancer confined to the milk ducts. \nIt is also referred to as stage 0 breast cancer.",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "# Ductal Carcinoma In Situ (DCIS)",
+      "chunk_id": 75
+    }
+  },
+  {
+    "chunk_id": 76,
+    "content": "## # Lobular Carcinoma In Situ (LCIS)\nLCIS is not considered breast cancer but is associated with increased \nfuture risk.",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "# Lobular Carcinoma In Situ (LCIS)",
+      "chunk_id": 76
+    }
+  },
+  {
+    "chunk_id": 77,
+    "content": "## SPECIAL AND RARE TYPES OF BREAST CANCER\n",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "SPECIAL AND RARE TYPES OF BREAST CANCER",
+      "chunk_id": 77
+    }
+  },
+  {
+    "chunk_id": 78,
+    "content": "## # Inflammatory Breast Cancer\nA rare and aggressive form characterized by lymphatic blockage in the skin.",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "# Inflammatory Breast Cancer",
+      "chunk_id": 78
+    }
+  },
+  {
+    "chunk_id": 79,
+    "content": "## # Paget Disease of the Breast\nA rare cancer involving the nipple and areola.",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "# Paget Disease of the Breast",
+      "chunk_id": 79
+    }
+  },
+  {
+    "chunk_id": 80,
+    "content": "## # Phyllodes Tumor\nA rare tumor originating from connective tissue. \nMost phyllodes tumors are benign.",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "# Phyllodes Tumor",
+      "chunk_id": 80
+    }
+  },
+  {
+    "chunk_id": 81,
+    "content": "## METASTATIC BREAST CANCER\nMetastatic breast cancer (stage IV) occurs when cancer spreads to distant \norgans \nsuch as bone, liver, or lungs.",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "METASTATIC BREAST CANCER",
+      "chunk_id": 81
+    }
+  },
+  {
+    "chunk_id": 82,
+    "content": "## MOLECULAR SUBTYPES OF BREAST CANCER\nMolecular subtypes are defined by biomarker expression. \n \nCommon subtypes include: \n- Luminal A \n- Luminal B \n- HER2-positive \n- Triple-negative breast cancer\nThese subtypes influence prognosis and treatment strategies.",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "MOLECULAR SUBTYPES OF BREAST CANCER",
+      "chunk_id": 82
+    }
+  },
+  {
+    "chunk_id": 83,
+    "content": "## CLINICAL RELEVANCE\nBreast cancer classification is essential for: \n- Prognosis estimation \n- Treatment planning \n- Risk assessment",
+    "metadata": {
+      "document_id": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer",
+      "source": "07_Types_and_Molecular_Subtypes_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 2,
+      "section": "CLINICAL RELEVANCE",
+      "chunk_id": 83
+    }
+  },
+  {
+    "chunk_id": 84,
+    "content": "## DOCUMENT TITLE: Signs and Symptoms of Breast Cancer\nSOURCE: Clinical Oncology Reference \nDOMAIN: Oncology – Breast Cancer \nLANGUAGE: English \nDOCUMENT TYPE: Clinical Presentation \nLAST UPDATED: 2025",
+    "metadata": {
+      "document_id": "08_Signs_and_Symptoms_of_Breast_Cancer",
+      "source": "08_Signs_and_Symptoms_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "DOCUMENT TITLE: Signs and Symptoms of Breast Cancer",
+      "chunk_id": 84
+    }
+  },
+  {
+    "chunk_id": 85,
+    "content": "## OVERVIEW OF BREAST CANCER SYMPTOMS\nBreast cancer symptoms vary widely. \nMany breast cancers cause no noticeable symptoms, especially in early \nstages.",
+    "metadata": {
+      "document_id": "08_Signs_and_Symptoms_of_Breast_Cancer",
+      "source": "08_Signs_and_Symptoms_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "OVERVIEW OF BREAST CANCER SYMPTOMS",
+      "chunk_id": 85
+    }
+  },
+  {
+    "chunk_id": 86,
+    "content": "## COMMON BREAST CHANGES ASSOCIATED WITH BREAST CANCER\nPossible symptoms include: \n- Swelling of all or part of the breast \n- Skin irritation or dimpling \n- Breast pain or tenderness \n- Nipple pain or inversion \n- Redness, scaliness, or thickening of breast or nipple skin \n- Nipple discharge not related to breast milk \n- Lump or swelling in the underarm area",
+    "metadata": {
+      "document_id": "08_Signs_and_Symptoms_of_Breast_Cancer",
+      "source": "08_Signs_and_Symptoms_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "COMMON BREAST CHANGES ASSOCIATED WITH BREAST CANCER",
+      "chunk_id": 86
+    }
+  },
+  {
+    "chunk_id": 87,
+    "content": "## BREAST PAIN AND ASSOCIATED CONDITIONS\nBreast pain is not a common symptom of early breast cancer. \nPain may occur when a tumor presses on surrounding tissue. \n \nPain and tenderness may be early symptoms of inflammatory breast cancer. \nPaget disease of the nipple may cause pain, burning, and irritation.",
+    "metadata": {
+      "document_id": "08_Signs_and_Symptoms_of_Breast_Cancer",
+      "source": "08_Signs_and_Symptoms_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "BREAST PAIN AND ASSOCIATED CONDITIONS",
+      "chunk_id": 87
+    }
+  },
+  {
+    "chunk_id": 88,
+    "content": "## BREAST LUMPS OR MASSES\nA new lump or mass may be the first noticeable sign of breast cancer. \n \nCancerous lumps are more likely to be: \n- Painless \n- Hard \n- Irregular in shape \n \nHowever, some breast cancers may feel soft, tender, or rounded.",
+    "metadata": {
+      "document_id": "08_Signs_and_Symptoms_of_Breast_Cancer",
+      "source": "08_Signs_and_Symptoms_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "BREAST LUMPS OR MASSES",
+      "chunk_id": 88
+    }
+  },
+  {
+    "chunk_id": 89,
+    "content": "## ASYMPTOMATIC BREAST CANCER\nSome breast cancers do not cause symptoms. \nThey may be detected only through imaging studies such as mammography.",
+    "metadata": {
+      "document_id": "08_Signs_and_Symptoms_of_Breast_Cancer",
+      "source": "08_Signs_and_Symptoms_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "ASYMPTOMATIC BREAST CANCER",
+      "chunk_id": 89
+    }
+  },
+  {
+    "chunk_id": 90,
+    "content": "## CLINICAL SIGNIFICANCE OF SYMPTOMS\nBreast symptoms may also be caused by benign conditions such as infections \nor cysts. \nClinical evaluation is required to determine the cause of breast changes.",
+    "metadata": {
+      "document_id": "08_Signs_and_Symptoms_of_Breast_Cancer",
+      "source": "08_Signs_and_Symptoms_of_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "CLINICAL SIGNIFICANCE OF SYMPTOMS",
+      "chunk_id": 90
+    }
+  },
+  {
+    "chunk_id": 91,
+    "content": "## DOCUMENT TITLE: Breast Cancer Risk Factors\nDOMAIN: Oncology – Breast Cancer \nDOCUMENT TYPE: Risk Factors \nLANGUAGE: English \nLAST UPDATED: 2025",
+    "metadata": {
+      "document_id": "09_Breast_Cancer_Risk_Factors",
+      "source": "09_Breast_Cancer_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "DOCUMENT TITLE: Breast Cancer Risk Factors",
+      "chunk_id": 91
+    }
+  },
+  {
+    "chunk_id": 92,
+    "content": "## OVERVIEW OF BREAST CANCER RISK FACTORS\nA risk factor is any factor that increases the likelihood of developing \nbreast cancer. \nHaving one or more risk factors does not mean a person will develop breast \ncancer.",
+    "metadata": {
+      "document_id": "09_Breast_Cancer_Risk_Factors",
+      "source": "09_Breast_Cancer_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "OVERVIEW OF BREAST CANCER RISK FACTORS",
+      "chunk_id": 92
+    }
+  },
+  {
+    "chunk_id": 93,
+    "content": "## NON-MODIFIABLE RISK FACTORS\n- Female biological sex \n- Increasing age \n- Family history of breast cancer \n- Inherited genetic mutations (BRCA1, BRCA2, PALB2, PTEN) \n- Early menarche and late menopause \n- Prior chest radiation before age 30",
+    "metadata": {
+      "document_id": "09_Breast_Cancer_Risk_Factors",
+      "source": "09_Breast_Cancer_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "NON-MODIFIABLE RISK FACTORS",
+      "chunk_id": 93
+    }
+  },
+  {
+    "chunk_id": 94,
+    "content": "## MODIFIABLE RISK FACTORS\n- Alcohol consumption \n- Obesity, especially after menopause \n- Physical inactivity \n- Hormone replacement therapy \n- Tobacco use",
+    "metadata": {
+      "document_id": "09_Breast_Cancer_Risk_Factors",
+      "source": "09_Breast_Cancer_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "MODIFIABLE RISK FACTORS",
+      "chunk_id": 94
+    }
+  },
+  {
+    "chunk_id": 95,
+    "content": "## HIGH-RISK POPULATIONS\nCertain factors confer a very high risk of breast cancer, including: \n- Harmful genetic mutations \n- Strong family history with multiple affected relatives \n- Prior therapeutic chest radiation at young age",
+    "metadata": {
+      "document_id": "09_Breast_Cancer_Risk_Factors",
+      "source": "09_Breast_Cancer_Risk_Factors.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "HIGH-RISK POPULATIONS",
+      "chunk_id": 95
+    }
+  },
+  {
+    "chunk_id": 96,
+    "content": "## DOCUMENT TITLE: Breast Cancer Screening and Testing\nDOMAIN: Oncology – Breast Cancer \nDOCUMENT TYPE: Screening and Early Detection \nLANGUAGE: English \nLAST UPDATED: 2025",
+    "metadata": {
+      "document_id": "10_Screening_and_Testing_for_Breast_Cancer",
+      "source": "10_Screening_and_Testing_for_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "DOCUMENT TITLE: Breast Cancer Screening and Testing",
+      "chunk_id": 96
+    }
+  },
+  {
+    "chunk_id": 97,
+    "content": "## OVERVIEW OF BREAST CANCER SCREENING\nScreening aims to detect breast cancer before symptoms appear. \nEarly detection improves survival and treatment outcomes.",
+    "metadata": {
+      "document_id": "10_Screening_and_Testing_for_Breast_Cancer",
+      "source": "10_Screening_and_Testing_for_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "OVERVIEW OF BREAST CANCER SCREENING",
+      "chunk_id": 97
+    }
+  },
+  {
+    "chunk_id": 98,
+    "content": "## SCREENING METHODS\nCommon screening methods include: \n- Mammography \n- Breast ultrasound \n- Breast MRI for high-risk individuals",
+    "metadata": {
+      "document_id": "10_Screening_and_Testing_for_Breast_Cancer",
+      "source": "10_Screening_and_Testing_for_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "SCREENING METHODS",
+      "chunk_id": 98
+    }
+  },
+  {
+    "chunk_id": 99,
+    "content": "## SCREENING RECOMMENDATIONS\n- Women aged 50–69: routine mammography \n- High-risk individuals: earlier and more frequent screening \n- Screening recommendations may vary by country and risk level",
+    "metadata": {
+      "document_id": "10_Screening_and_Testing_for_Breast_Cancer",
+      "source": "10_Screening_and_Testing_for_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "SCREENING RECOMMENDATIONS",
+      "chunk_id": 99
+    }
+  },
+  {
+    "chunk_id": 100,
+    "content": "## SCREENING VS DIAGNOSTIC TESTING\nScreening is performed in asymptomatic individuals. \nDiagnostic testing is used when symptoms or abnormal screening results are \npresent.",
+    "metadata": {
+      "document_id": "10_Screening_and_Testing_for_Breast_Cancer",
+      "source": "10_Screening_and_Testing_for_Breast_Cancer.pdf",
+      "domain": "Oncology",
+      "language": "en",
+      "total_pages": 1,
+      "section": "SCREENING VS DIAGNOSTIC TESTING",
+      "chunk_id": 100
+    }
+  }
+]

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breast Cancer Support - Together We Stand</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="home-page">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <div class="ribbon-icon">🎗️</div>
+            <h1 class="hero-title fade-in">
+                For Every Woman in the World
+            </h1>
+            <p class="hero-subtitle fade-in-delay">
+                You are <strong>not alone</strong>. We are with you.
+            </p>
+            <p class="hero-message fade-in-delay-2">
+                Together, we stand strong against breast cancer.<br>
+                Knowledge is power. Prevention saves lives. Hope heals hearts.
+            </p>
+            <div class="hero-buttons fade-in-delay-3">
+                <a href="#info" class="btn btn-primary">Learn More</a>
+                <a href="/chatbot" class="btn btn-secondary">Ask Questions</a>
+            </div>
+        </div>
+        
+        <div class="scroll-indicator">
+            <span>↓ Scroll</span>
+        </div>
+    </section>
+
+    <!-- Section Importance -->
+    <section id="info" class="importance-section">
+        <div class="container">
+            <h2 class="section-title">Why Early Information Matters</h2>
+            <p class="section-subtitle">Knowledge empowers prevention and early detection</p>
+            
+            <div class="importance-grid">
+                <div class="importance-card">
+                    <div class="card-icon">💡</div>
+                    <h3>Be Informed</h3>
+                    <p>
+                        Understanding breast cancer helps you recognize early signs, 
+                        know your risk factors, and make informed decisions about your health.
+                    </p>
+                </div>
+                
+                <div class="importance-card">
+                    <div class="card-icon">🛡️</div>
+                    <h3>Protect Yourself</h3>
+                    <p>
+                        Regular self-examinations, mammograms, and healthy lifestyle choices 
+                        can significantly reduce your risk and catch cancer early when it's most treatable.
+                    </p>
+                </div>
+                
+                <div class="importance-card">
+                    <div class="card-icon">❤️</div>
+                    <h3>Support Each Other</h3>
+                    <p>
+                        Share knowledge with family and friends. Early detection saves lives, 
+                        and together we can create a community of awareness and support.
+                    </p>
+                </div>
+            </div>
+            
+            <!-- Section AI Assistant -->
+            <div class="chatbot-intro">
+                <h3>🤖 Our AI Medical Assistant</h3>
+                <p>
+                    We've developed an intelligent chatbot to provide you with <strong>accurate, 
+                    verified medical information</strong> about breast cancer. Ask questions anytime, 
+                    get instant answers based on trusted medical sources, and learn at your own pace.
+                </p>
+                <ul class="features-list">
+                    <li>✓ Instant access to medical information</li>
+                    <li>✓ Verified sources from WHO, NCI, and medical journals</li>
+                    <li>✓ Available 24/7 in multiple languages</li>
+                    <li>✓ Private and confidential</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section How It Works - NOUVELLE -->
+    <section class="how-it-works-section">
+        <div class="container">
+            <h2 class="section-title">How It Works</h2>
+            <p class="section-subtitle">Simple, fast, and reliable medical information</p>
+            
+            <div class="steps-container">
+                <div class="step-card">
+                    <div class="step-number">1</div>
+                    <div class="step-icon">❓</div>
+                    <h3>Ask Your Question</h3>
+                    <p>
+                        Type any question about breast cancer in natural language. 
+                        Our AI understands your concerns.
+                    </p>
+                </div>
+                
+                <div class="step-arrow">→</div>
+                
+                <div class="step-card">
+                    <div class="step-number">2</div>
+                    <div class="step-icon">🔍</div>
+                    <h3>AI Searches Medical Sources</h3>
+                    <p>
+                        Advanced AI instantly searches through verified medical documents 
+                        and research papers.
+                    </p>
+                </div>
+                
+                <div class="step-arrow">→</div>
+                
+                <div class="step-card">
+                    <div class="step-number">3</div>
+                    <div class="step-icon">✅</div>
+                    <h3>Get Verified Answer + Citations</h3>
+                    <p>
+                        Receive accurate answers with citations from trusted sources 
+                        like WHO and NCI.
+                    </p>
+                </div>
+            </div>
+            
+            <div class="cta-button-container">
+                <a href="/chatbot" class="btn btn-large">Try It Now 💬</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section Graphique Survival Rates -->
+    <section class="chart-section">
+        <div class="container">
+            <h2 class="section-title">Early Detection Saves Lives</h2>
+            <p class="section-subtitle">Survival rates dramatically improve with early diagnosis</p>
+            
+            <div class="chart-container-single">
+                <canvas id="survivalChart"></canvas>
+                <div class="chart-insight">
+                    <p class="insight-text">
+                        <strong>💡 Key Insight:</strong> Breast cancer detected at Stage 0-I has a 
+                        <span class="highlight">99% survival rate</span>. Regular screening and 
+                        self-examination are crucial for early detection.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section CTA -->
+    <section class="cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Ready to Learn More?</h2>
+                <p>
+                    Our AI-powered chatbot is here to answer your questions about 
+                    breast cancer prevention, symptoms, diagnosis, and treatment.
+                </p>
+                <a href="/chatbot" class="btn btn-large">Start Conversation 💬</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-col">
+                    <h4>Breast Cancer AI Assistant</h4>
+                    <p>Empowering women with knowledge and support through artificial intelligence</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Resources</h4>
+                    <ul>
+                        <li><a href="/chatbot">Medical Chatbot</a></li>
+                        <li><a href="https://www.who.int/news-room/fact-sheets/detail/breast-cancer" target="_blank">WHO Guidelines</a></li>
+                        <li><a href="https://www.cancer.org/cancer/breast-cancer.html" target="_blank">American Cancer Society</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Disclaimer</h4>
+                    <p class="disclaimer">
+                        This is an informational tool, not medical advice. 
+                        Always consult healthcare professionals for diagnosis and treatment.
+                    </p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>💖 Made with love and hope by <strong>AYA BELHADJI</strong></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

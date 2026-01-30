@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Vector DB
+chroma_db_free/
+
+# OS
+.DS_Store
+Thumbs.db
